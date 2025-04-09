@@ -1,0 +1,44 @@
+# Inference library code produced from notebook
+straw_man_model/
+ad_hominem_model/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+*.ipynb~
+
+# Databricks related files
+dbfs/
+*.dbc
+*.dbfs
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VSCode settings and other IDE-specific files
+.vscode/
+.idea/
+
+# MacOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.out
+
+# Databricks specific
+.databricks/
