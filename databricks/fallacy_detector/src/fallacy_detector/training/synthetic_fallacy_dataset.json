@@ -1,0 +1,3002 @@
+[
+  {
+    "text": "If we allow automate customer service, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "First automate customer service, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "First work from home, then kids will stop learning entirely, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "First legalize marijuana, then crime rates will skyrocket, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow automate customer service, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "First skip school, then robots will replace all jobs, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Only a puppet would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Think of the children! We can't allow automate customer service.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "First teach controversial topics, then crime rates will skyrocket, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First ban plastic bags, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "Think of the children! We can't allow decriminalize some drugs.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "First decriminalize some drugs, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First decriminalize some drugs, then crime rates will skyrocket, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow legalize marijuana.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow legalize marijuana, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "First ban plastic bags, then crime rates will skyrocket, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First use AI for homework, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First legalize marijuana, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow use AI for homework, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow automate customer service, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First use AI for homework, then crime rates will skyrocket, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Only a hypocrite would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known sellout.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "You can't trust Dr. Lee, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow skip school, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First automate customer service, then robots will replace all jobs, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow skip school, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "Think of the children! We can't allow teach controversial topics.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow automate customer service, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "If we allow ban plastic bags, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow skip school, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow work from home, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Think of the children! We can't allow use AI for homework.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "economy"
+  },
+  {
+    "text": "Anyone with a heart would know that legalize marijuana is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First use AI for homework, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "First skip school, then robots will replace all jobs, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "economy"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "First automate customer service, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First automate customer service, then robots will replace all jobs, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Think of the children! We can't allow work from home.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "First teach controversial topics, then robots will replace all jobs, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First skip school, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow work from home.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow automate customer service, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First skip school, then nobody will want to work, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people automate customer service, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow automate customer service, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Only a puppet would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First use AI for homework, then society will collapse, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Think of the children! We can't allow legalize marijuana.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First automate customer service, then robots will replace all jobs, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First legalize marijuana, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First automate customer service, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Anyone with a heart would know that automate customer service is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "technology"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "economy"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First automate customer service, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Think of the children! We can't allow decriminalize some drugs.",
+    "label": "appeal_to_emotion",
+    "source_context": "health"
+  },
+  {
+    "text": "Anyone with a heart would know that legalize marijuana is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow work from home, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow skip school, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "First skip school, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known puppet.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Think of the children! We can't allow teach controversial topics.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing teach controversial topics will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First work from home, then kids will stop learning entirely, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Anyone with a heart would know that automate customer service is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow use AI for homework, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First legalize marijuana, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First use AI for homework, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow skip school, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Think of the children! We can't allow automate customer service.",
+    "label": "appeal_to_emotion",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "First decriminalize some drugs, then everyone will become lazy, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known sellout.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First skip school, then society will collapse, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Of course my neighbor says that \u2014 they\u2019re a known sellout.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Anyone with a heart would know that work from home is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow work from home, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First ban plastic bags, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "politics"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "First ban plastic bags, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "If we allow automate customer service, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Think of the children! We can't allow ban plastic bags.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "If we allow use AI for homework, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow automate customer service, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First ban plastic bags, then everyone will become lazy, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow skip school, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First skip school, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people automate customer service, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First skip school, then nobody will want to work, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow work from home, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "You can't trust Dr. Lee, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow use AI for homework, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow use AI for homework, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First ban plastic bags, then nobody will want to work, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people automate customer service, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "You can't trust Dr. Lee, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Only a puppet would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "If we allow ban plastic bags, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "economy"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow automate customer service, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow work from home, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "First ban plastic bags, then robots will replace all jobs, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "First teach controversial topics, then robots will replace all jobs, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow ban plastic bags, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "First ban plastic bags, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First work from home, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Think of the children! We can't allow ban plastic bags.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "First use AI for homework, then society will collapse, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "First teach controversial topics, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course my neighbor says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Of course Dr. Lee says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "First legalize marijuana, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow skip school, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow skip school, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First ban plastic bags, then everyone will become lazy, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow skip school, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people skip school, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "First decriminalize some drugs, then society will collapse, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "Only a puppet would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First use AI for homework, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Because people got sick happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "They say we should recycle more, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing teach controversial topics will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "If we allow skip school, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow work from home, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First skip school, then nobody will want to work, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people automate customer service, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "politics"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing legalize marijuana will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Of course Dr. Lee says that \u2014 they\u2019re a known puppet.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "First automate customer service, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First ban plastic bags, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known sellout.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First automate customer service, then everyone will become lazy, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow legalize marijuana.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "First teach controversial topics, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "First legalize marijuana, then crime rates will skyrocket, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "First use AI for homework, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Anyone with a heart would know that decriminalize some drugs is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow teach controversial topics.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "First work from home, then everyone will become lazy, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known puppet.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's work from home, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Only a puppet would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "First teach controversial topics, then kids will stop learning entirely, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow ban plastic bags, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "So you think reduce screen time? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow automate customer service.",
+    "label": "appeal_to_emotion",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Once we let people ban plastic bags, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First skip school, then society will collapse, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Think of the children! We can't allow automate customer service.",
+    "label": "appeal_to_emotion",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing teach controversial topics will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Because people got sick happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Anyone with a heart would know that automate customer service is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "health"
+  },
+  {
+    "text": "Of course Senator Cruz says that \u2014 they\u2019re a known puppet.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "You can't trust my neighbor, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "First work from home, then everyone will become lazy, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course my neighbor says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Anyone with a heart would know that teach controversial topics is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because crime increased happened after vaccinations started, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First automate customer service, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people work from home, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "You can't trust Dr. Lee, they're just a conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Think of the children! We can't allow teach controversial topics.",
+    "label": "appeal_to_emotion",
+    "source_context": "health"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's society will collapse \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "First use AI for homework, then robots will replace all jobs, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing teach controversial topics will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust Senator Cruz, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Because crime increased happened after they installed the cameras, it must be the cause.",
+    "label": "false_cause",
+    "source_context": "law"
+  },
+  {
+    "text": "Anyone with a heart would know that decriminalize some drugs is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "social_media"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "Once we let people legalize marijuana, it's only a matter of time before crime rates will skyrocket.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and ban all technology?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "First automate customer service, then everyone will become lazy, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Of course my neighbor says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "technology"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known puppet.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Of course Dr. Lee says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow automate customer service, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "First automate customer service, then crime rates will skyrocket, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "So you think limit car use? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "Think of the children! We can't allow decriminalize some drugs.",
+    "label": "appeal_to_emotion",
+    "source_context": "technology"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Only a hypocrite would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people teach controversial topics, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Ever since we started using 5G, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Think of the children! We can't allow ban plastic bags.",
+    "label": "appeal_to_emotion",
+    "source_context": "technology"
+  },
+  {
+    "text": "You can't trust Dr. Lee, they're just a sellout.",
+    "label": "ad_hominem",
+    "source_context": "health"
+  },
+  {
+    "text": "First use AI for homework, then crime rates will skyrocket, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Only a hypocrite would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow use AI for homework, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First skip school, then nobody will want to work, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Think of the children! We can't allow skip school.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "Once we let people use AI for homework, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow skip school, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a puppet.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "Think of the children! We can't allow teach controversial topics.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "health"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "First ban plastic bags, then kids will stop learning entirely, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "First legalize marijuana, then society will collapse, and before you know it, nothing will be under control.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Only a conspiracy theorist would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "law"
+  },
+  {
+    "text": "You can't trust this YouTuber, they're just a hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "economy"
+  },
+  {
+    "text": "Think of the children! We can't allow work from home.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow decriminalize some drugs, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Of course this YouTuber says that \u2014 they\u2019re a known conspiracy theorist.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's robots will replace all jobs \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people automate customer service, it's only a matter of time before society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Allowing skip school will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Anyone with a heart would know that work from home is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's use AI for homework, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing use AI for homework will open the floodgates to everyone will become lazy.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Allowing automate customer service will open the floodgates to kids will stop learning entirely.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Only a sellout would believe something like that.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's automate customer service, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow use AI for homework, soon robots will replace all jobs will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow skip school, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "politics"
+  },
+  {
+    "text": "So you think recycle more? Why not just go all the way and shut down the economy?",
+    "label": "straw_man",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's decriminalize some drugs, tomorrow it's kids will stop learning entirely \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow skip school, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Allowing decriminalize some drugs will open the floodgates to society will collapse.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Today it's legalize marijuana, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing ban plastic bags will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "First automate customer service, then crime rates will skyrocket, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "Allowing work from home will open the floodgates to nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "politics"
+  },
+  {
+    "text": "Once we let people decriminalize some drugs, it's only a matter of time before nobody will want to work.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow use AI for homework, soon society will collapse will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "If we allow legalize marijuana, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon nobody will want to work will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Once we let people skip school, it's only a matter of time before robots will replace all jobs.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "If we allow legalize marijuana, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "social_media"
+  },
+  {
+    "text": "Ever since we changed the school lunch policy, things have gone wrong \u2014 it\u2019s clearly the reason.",
+    "label": "false_cause",
+    "source_context": "technology"
+  },
+  {
+    "text": "Anyone with a heart would know that skip school is wrong.",
+    "label": "appeal_to_emotion",
+    "source_context": "law"
+  },
+  {
+    "text": "They say we should limit car use, but what they really want is shut down the economy.",
+    "label": "straw_man",
+    "source_context": "technology"
+  },
+  {
+    "text": "First work from home, then robots will replace all jobs, and before you know it, we'll be living in chaos.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "If we allow teach controversial topics, soon kids will stop learning entirely will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow ban plastic bags, soon everyone will become lazy will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's crime rates will skyrocket \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "Today it's ban plastic bags, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "They say we should reduce screen time, but what they really want is ban all technology.",
+    "label": "straw_man",
+    "source_context": "health"
+  },
+  {
+    "text": "Today it's teach controversial topics, tomorrow it's nobody will want to work \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "technology"
+  },
+  {
+    "text": "First work from home, then crime rates will skyrocket, and before you know it, we\u2019ll lose all sense of order.",
+    "label": "slippery_slope",
+    "source_context": "law"
+  },
+  {
+    "text": "Of course Dr. Lee says that \u2014 they\u2019re a known hypocrite.",
+    "label": "ad_hominem",
+    "source_context": "education"
+  },
+  {
+    "text": "Today it's skip school, tomorrow it's everyone will become lazy \u2014 where do we draw the line?",
+    "label": "slippery_slope",
+    "source_context": "health"
+  },
+  {
+    "text": "Think of the children! We can't allow skip school.",
+    "label": "appeal_to_emotion",
+    "source_context": "economy"
+  },
+  {
+    "text": "If we allow automate customer service, soon crime rates will skyrocket will happen and everything will fall apart.",
+    "label": "slippery_slope",
+    "source_context": "education"
+  }
+]

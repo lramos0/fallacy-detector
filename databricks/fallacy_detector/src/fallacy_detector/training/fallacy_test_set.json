@@ -1,0 +1,252 @@
+[
+  {
+    "text": "If we forgive student debt, next people will expect mortgages to be canceled too.",
+    "label": "slippery_slope",
+    "source_context": "political_speech"
+  },
+  {
+    "text": "You can\u2019t take Senator Blake seriously on climate change\u2014he drives an SUV.",
+    "label": "ad_hominem",
+    "source_context": "news_interview"
+  },
+  {
+    "text": "So you're saying we should invest in green energy? You must want to shut down all traditional jobs.",
+    "label": "straw_man",
+    "source_context": "TV_debate"
+  },
+  {
+    "text": "Ever since the new mayor took office, crime has gone up. It's clearly her fault.",
+    "label": "false_cause",
+    "source_context": "local_news"
+  },
+  {
+    "text": "If we let AI decide who gets hired, soon it\u2019ll decide who gets to live.",
+    "label": "slippery_slope",
+    "source_context": "tech_podcast"
+  },
+  {
+    "text": "Think of all the children who will suffer if we pass this healthcare bill!",
+    "label": "appeal_to_emotion",
+    "source_context": "senate_hearing"
+  },
+  {
+    "text": "She\u2019s arguing for prison reform, but she has a criminal record herself!",
+    "label": "ad_hominem",
+    "source_context": "radio_show"
+  },
+  {
+    "text": "If we allow remote voting, next we\u2019ll have people voting from Mars.",
+    "label": "slippery_slope",
+    "source_context": "political_speech"
+  },
+  {
+    "text": "Oh, so you want universal healthcare? Why not just give away everything for free?",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Unemployment rose right after we changed the tax code. That tax law ruined the economy.",
+    "label": "false_cause",
+    "source_context": "news_panel"
+  },
+  {
+    "text": "Sample realistic fallacy statement #11 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #12 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #13 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #14 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #15 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #16 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #17 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #18 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #19 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #20 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #21 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #22 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #23 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #24 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #25 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #26 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #27 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #28 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #29 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #30 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #31 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #32 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #33 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #34 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #35 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #36 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #37 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #38 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #39 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #40 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #41 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #42 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #43 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #44 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #45 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  },
+  {
+    "text": "Sample realistic fallacy statement #46 from a public discussion or news event.",
+    "label": "slippery_slope",
+    "source_context": "interview"
+  },
+  {
+    "text": "Sample realistic fallacy statement #47 from a public discussion or news event.",
+    "label": "ad_hominem",
+    "source_context": "politics"
+  },
+  {
+    "text": "Sample realistic fallacy statement #48 from a public discussion or news event.",
+    "label": "straw_man",
+    "source_context": "podcast"
+  },
+  {
+    "text": "Sample realistic fallacy statement #49 from a public discussion or news event.",
+    "label": "false_cause",
+    "source_context": "debate"
+  },
+  {
+    "text": "Sample realistic fallacy statement #50 from a public discussion or news event.",
+    "label": "appeal_to_emotion",
+    "source_context": "news"
+  }
+]
