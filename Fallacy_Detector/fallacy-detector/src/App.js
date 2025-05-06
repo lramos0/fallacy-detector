@@ -30,7 +30,7 @@ function App() {
           method: "POST",
           body: formData,
           headers: {
-                Authorization: 'Bearer ${accessKey}'
+                Authorization: `Bearer ${accessKey}`
               }
         });
         const data = await res.json();
@@ -50,22 +50,27 @@ function App() {
   };
 
   const handleSubmit = async () => {
-    if (!text.trim()) return;
+    if (!text.trim() || !accessKey.trim()) return;
 
     try {
-    const body = {
-            dataframe_split: {
-              columns: ["text"],
-              data: [[text]]
-            }
-          };
-      const response = await fetch("https://dbc-28e35821-942c.cloud.databricks.com/serving-endpoints/fallacy-classifier/invocations", {
+      const body = {
+        dataframe_split: {
+          columns: ["text"],
+          data: [[text]]
+        },
+        accessKey // include the access token here
+      };
+
+      const response = await fetch("/.netlify/functions/classify", {
         method: "POST",
-        headers: { Authorization: 'Bearer ${accessKey}' },
-        body: body,
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(body)
       });
+
       const data = await response.json();
-      setPrediction(data.prediction);
+      setPrediction(data.prediction || JSON.stringify(data));
     } catch (error) {
       console.error("Error:", error);
       setPrediction("Error: Could not fetch prediction.");
