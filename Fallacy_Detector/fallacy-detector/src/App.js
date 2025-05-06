@@ -30,7 +30,7 @@ function App() {
           method: "POST",
           body: formData,
           headers: {
-                Authorization: 'Bearer ${accessKey}'
+                Authorization: `Bearer ${accessKey}`
               }
         });
         const data = await res.json();
@@ -61,7 +61,7 @@ function App() {
           };
       const response = await fetch("https://dbc-28e35821-942c.cloud.databricks.com/serving-endpoints/fallacy-classifier/invocations", {
         method: "POST",
-        headers: { Authorization: 'Bearer ${accessKey}' },
+        headers: { Authorization: `Bearer ${accessKey}` },
         body: body,
       });
       const data = await response.json();
