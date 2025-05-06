@@ -1,8 +1,9 @@
-🚀🙈 [see the deployed beta](https://fallacy-detector.com/)
+🚀🗣️ [deployed beta](https://fallacy-detector.com/) 🚀🗣️
 
 # fallacy-detector
 code repository for fallacy-detector application
-
+- *fallacy-detector/databricks* is resources for databricks workspace and training code.
+- *fallacy-detector/Fallacy_Detector* is a react website deployed via netlify. 
 ## training
 students at san diego state university constructed individual binary classifiers on 10 different logical fallacies. These were jupyter notebooks using the BertTokenizer from nltk to extract features from *labeled data*, data is split into train/test sets, then loads a pretrained BERT model with a classification head using AdamW optimizer (preferred for Transformers). Performance metrics are obtained from the test set, the goal is probabilistic multi-classification.
 
