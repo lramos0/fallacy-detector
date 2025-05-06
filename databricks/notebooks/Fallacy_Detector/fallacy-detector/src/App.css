@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f8;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.app-header {
+  width: 100%;
+  padding: 1rem;
+  background-color: #4f46e5;
+  color: white;
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  margin-bottom: 2rem;
+}
+
+.content {
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.access-key {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.text-input {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.submit-button {
+  background-color: #4f46e5;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #4338ca;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.mic-button {
+  background-color: #10b981;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.mic-button:hover {
+  background-color: #059669;
+}
+.mic-button.stop {
+  background-color: #ef4444;
+}
+
+.mic-button.stop:hover {
+  background-color: #dc2626;
+}
+
+.result {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  color: #333;
+}
