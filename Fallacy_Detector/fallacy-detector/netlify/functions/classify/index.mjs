@@ -1,8 +1,14 @@
 // netlify/functions/classify/index.mjs
 export default async (req, context) => {
   const requestBody = await req.json();
-  const accessKey = requestBody.accessKey;
+   const accessKeyPub = process.env.ACCESS_KEY_PUB;
+   const betaPassword = process.env.BETA_PASSWORD;
+  let accessKey = requestBody.accessKey;
+  if (requestBody.accessKey === betaPassword) {
+    accessKey = accessKeyPub;
+  }
   delete requestBody.accessKey;
+  delete requestBody.pin;
 
   if (!accessKey) {
     return new Response(JSON.stringify({ error: "Missing access token" }), {
